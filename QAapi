@@ -1,0 +1,3 @@
+#!/bin/bash
+
+diff -r dev.8dweek.com/api/v1 qa.8dweek.com/api/v1  > moveToQapi
